@@ -8,7 +8,6 @@
 <a href="https://github.com/imamsyahfa2005"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ISP-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/imamsyahfa2005/apa/followers"><img title="Followers" src="https://img.shields.io/github/followers//imamsyahfa2005?color=blue&style=flat-square"></a>
 <a href="https://github.com/imamsyahfa2005/apa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/imamsyahfa2005/apa?color=red&style=flat-square"></a>
 <a href="https://github.com/imamsyahfa2005/apa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/imamsyahfa2005/apa?color=red&style=flat-square"></a>
 <a href="https://github.com/imamsyahfa2005/apa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/imamsyahfa2005/apa?label=Watchers&color=blue&style=flat-square"></a>
